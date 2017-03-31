@@ -4,8 +4,8 @@
 用法：
 ```
 var str:String = "polyv"
-var b2:String = Base64Safe.encode(convertStringToByteArray(str));
-var deb2:ByteArray = Base64Safe.decode(b2);
+var b2:String = Base64Safe.encodeSafe(convertStringToByteArray(str));
+var deb2:ByteArray = Base64Safe.decodeSafe(b2);
 trace(convertByteArrayToString(deb2));
 
 //字符串转化为二进制数组
