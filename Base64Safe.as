@@ -1,7 +1,7 @@
 /* ActionScript 3.0.专用的safeBase64
  * 基于: Ma Bingyao 代码.
  * 优化: Jean-Philippe Auclair  / jpauclair.wordpress.com
- * 改进: 加入safe模式   pai /  www.polyv.net
+ * 改进: 加入safe模式   pai /  
  * Copyright (C) 2007 Ma Bingyao <andot@ujn.edu.cn>
  * LastModified: 20170331
  * 本类库免费。你可以重新发布或者修改它。
