@@ -3,7 +3,7 @@
 以"-_"替换"+/"，并去掉了"=="，可以安全地在url中传输。
 用法：
 ```
-var str:String = "polyv"
+var str:String = "Base64Safe"
 var b2:String = Base64Safe.encodeSafe(convertStringToByteArray(str));
 var deb2:ByteArray = Base64Safe.decodeSafe(b2);
 trace(convertByteArrayToString(deb2));
